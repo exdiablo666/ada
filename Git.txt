@@ -1,0 +1,59 @@
+1. Pengantar:
+Git adalah sistem kontrol versi yang sangat populer yang digunakan untuk mengelola perubahan pada kode sumber perangkat lunak. Git memungkinkan tim pengembang untuk bekerja bersama, melacak perubahan, dan mengelola kode dengan efisien. Berikut ini analisis materi pengenalan dan penggunaan dasar Git:
+
+2. Pentingnya Kontrol Versi:
+Materi ini menjelaskan mengapa kontrol versi diperlukan dalam pengembangan perangkat lunak. Dengan menggunakan Git, pengembang dapat:
+
+Melacak perubahan kode dari waktu ke waktu.
+Mengidentifikasi siapa yang melakukan perubahan tertentu (histori penulis).
+Mengembalikan kode ke versi sebelumnya (rollback).
+Membantu dalam bekerja dengan tim dengan aman.
+3. Konsep Dasar Git:
+Materi ini menguraikan konsep dasar dalam Git, termasuk:
+
+Repository (Repo): Tempat penyimpanan semua file dan perubahan.
+Commit: Snapshot dari perubahan dalam repo.
+Branch: Cabang independen di dalam repo yang memungkinkan pengembangan paralel.
+Merge: Menggabungkan perubahan dari satu cabang ke cabang lain.
+Pull Request (PR): Permintaan untuk menggabungkan perubahan dari cabang lain.
+Push dan Pull: Mengirim dan mengambil perubahan antara lokal dan remote repo.
+4. Pengaturan Awal:
+Materi ini memberikan panduan untuk mengonfigurasi Git pada komputer lokal, termasuk:
+
+Mengatur nama pengguna dan alamat email.
+Menyiapkan kunci SSH untuk otentikasi aman.
+Menginstal Git (jika belum terinstal).
+5. Penggunaan Dasar:
+Materi ini menjelaskan langkah-langkah penggunaan dasar Git:
+
+git init: Membuat repo baru di direktori.
+git add: Menambahkan perubahan ke staging area.
+git commit: Membuat commit dengan pesan deskriptif.
+git status: Melihat status perubahan dalam repo.
+git log: Melihat histori commit.
+git diff: Melihat perbedaan antara versi.
+6. Kolaborasi:
+Materi ini membahas cara kolaborasi menggunakan Git:
+
+git clone: Mengambil salinan repo dari remote.
+git pull: Mengambil perubahan terbaru dari remote.
+git push: Mengirim perubahan ke remote.
+Branching dan Merging: Menggunakan cabang untuk mengembangkan fitur atau perbaikan tanpa mengganggu master.
+7. Penanganan Konflik:
+Materi ini menjelaskan bagaimana menangani konflik yang terjadi saat merge atau pull request. Pengembang belajar untuk:
+
+Memahami penyebab konflik.
+Menyelesaikan konflik secara manual.
+Menggunakan alat bantu untuk memecahkan konflik.
+8. Git Hosting:
+Materi ini menjelaskan bagaimana hosting platform seperti GitHub, GitLab, dan Bitbucket digunakan untuk:
+
+Berbagi kode dengan tim atau publik.
+Mengelola isu dan permintaan fitur.
+Menggunakan fitur wiki, proyek, dan lintas referensi.
+9. Kesimpulan:
+Pada bagian akhir materi, pengembang diberikan ringkasan tentang:
+
+Pentingnya Git dalam pengembangan perangkat lunak modern.
+Kemampuan dasar Git yang harus dikuasai oleh pengembang.
+Penggunaan Git dalam kolaborasi tim.
